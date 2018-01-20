@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            arwsoft.
-tagline:          'another blog'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'tech blog'
+description:      'Tech blog for geeks. Check out <a href="https://twitter.com/dannyarw" target="_blank">@dannyarw</a>.'
 url:              http://blog.arwsoft.id
 baseurl:          /
 
